@@ -81,7 +81,6 @@ public class CourseWork {
                 targetEmployee.setSalary(salary);
             }
         }
-
                 public static int[] incrementAndSlice ( int[] arr){
                     int[] slice = new int[5];
                     int j = 0;
