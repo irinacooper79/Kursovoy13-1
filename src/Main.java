@@ -30,7 +30,6 @@ public class CourseWork {
             }
             return slice;
         }
-
             public static Employee findEmployee ( String name ){
             for (Employee employee : employees) {
                 if (employee != null && employee.getFullName || equals(name)) {
